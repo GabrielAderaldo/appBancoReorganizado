@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Hero (1.5.0)
+  - IHKeyboardAvoiding (4.7)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - ObjectMapper (3.5.3)
+  - Realm (5.3.3):
+    - Realm/Headers (= 5.3.3)
+  - Realm/Headers (5.3.3)
+  - RealmSwift (5.3.3):
+    - Realm (= 5.3.3)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SpringIndicator (5.0.0)
+  - SVProgressHUD (2.2)
+  - SwiftGen (6.3.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.7.3)
+  - AlamofireObjectMapper
+  - Hero
+  - IHKeyboardAvoiding
+  - Kingfisher
+  - ObjectMapper
+  - RealmSwift
+  - Reusable
+  - SpringIndicator
+  - SVProgressHUD (= 2.2)
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Hero
+    - IHKeyboardAvoiding
+    - Kingfisher
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - Reusable
+    - SpringIndicator
+    - SVProgressHUD
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  Realm: 2d57ea355bf8ca2a0964d6bfb38d28d7ff2addf6
+  RealmSwift: 0a709536ecea30eea1d3c514f6ade2ed078dee3c
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SpringIndicator: 111bf862e1415e5ac7b3a43c0cd09633d5715fd6
+  SVProgressHUD: 3f37f3409ddb15f35c99315ae7dc33c474aa3256
+  SwiftGen: 3d5024a47ea79e408cded20763d7a17d18a4548c
+
+PODFILE CHECKSUM: 9e35c7a60a9d41d207c58c26b610ace3a352dafa
+
+COCOAPODS: 1.9.3

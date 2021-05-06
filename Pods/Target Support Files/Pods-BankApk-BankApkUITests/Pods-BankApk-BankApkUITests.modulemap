@@ -1,0 +1,6 @@
+framework module Pods_BankApk_BankApkUITests {
+  umbrella header "Pods-BankApk-BankApkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
